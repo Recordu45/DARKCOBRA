@@ -1,6 +1,4 @@
-{
-  "name": "𝔻𝔸ℝ𝕂 ℂ𝕆𝔹ℝ𝔸",
-  "description": "The best and most awaited userbot made by hellboi_atul and modified by Jarvis userbot's owner(@Sppidy) Made with ❤ For Support Join @Dark_cobra_support ",
+{  "name": "𝔻𝔸ℝ𝕂 ℂ𝕆𝔹ℝ𝔸",  "description": "The best and most awaited userbot made by hellboi_atul and modified by Jarvis userbot's owner(@Sppidy) Made with ❤ For Support Join @Dark_cobra_support ",
   "logo": "https://telegra.ph/file/00f47c54ceda3944dc47c.jpg ",
     "keywords": [
     "telegram",
@@ -9,7 +7,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/DARK-COBRA/DARKCOBRA/",
+  "repository": "https://github.com/Recordu45/DARKCOBRA/",
   "website": "https://github.com/DARK-COBRA/DARKCOBRA/",
   "success_url": "https://t.me/Dark_cobra_support",
   "stack": "container",
